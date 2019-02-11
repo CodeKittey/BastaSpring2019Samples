@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/src/fibonacci.cpp
+fibonacci.h
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/src/fibonacci.h
+
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/src/fibonacci.h
+
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/src/main.cpp
+iostream
+-
+fibonacci.h
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/src/fibonacci.h
+

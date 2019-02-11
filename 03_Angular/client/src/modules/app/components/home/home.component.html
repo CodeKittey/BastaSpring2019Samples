@@ -1,0 +1,8 @@
+<app-card title="Welcome to the most awesome C++ App running inside the Browser">
+  <div>
+    <input #numberRef type="text"/>
+    <button (click)="getFibonacci(numberRef.value)">Get Fibonacci Number</button>
+  </div>
+  <div>Getting Fibonacci of {{ numberRef.value }}: {{ fibonacciResultNumber }}</div>
+  <div>Sponsered by C running inside your WebBrowser</div>
+</app-card>

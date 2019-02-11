@@ -1,0 +1,3 @@
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/CMakeFiles/rebuild_cache.dir
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/CMakeFiles/edit_cache.dir
+/Users/martinakraus/Dev/BASTA_SPRING_2019/02_CMake/CMakeFiles/app.dir

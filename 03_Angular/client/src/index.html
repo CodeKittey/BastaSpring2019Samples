@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Client</title>
+        <base href="/" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <link href="favicon.ico" rel="icon" type="image/x-icon" />
+        <script>
+            var Module = {
+                locateFile: fileName => {
+                    return `assets/fibonacci/${fileName}`;
+                },
+            };
+        </script>
+        <script src="assets/fibonacci/fibonacci.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <app-root></app-root>
+    </body>
+</html>

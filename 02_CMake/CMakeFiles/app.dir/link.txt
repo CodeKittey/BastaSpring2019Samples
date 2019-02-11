@@ -1,0 +1,1 @@
+/Users/martinakraus/Dev/emsdk/emscripten/1.38.21/em++    -o app.js --bind -s WASM=1 @CMakeFiles/app.dir/objects1.rsp  -o build/app.js 
