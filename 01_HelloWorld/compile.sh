@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-emcc hello.cpp -o index.html -s WASM=1
+emcc src/main.cpp src/fibonacci.cpp -o index.html -s WASM=1
